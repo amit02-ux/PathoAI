@@ -48,6 +48,7 @@ Streamlit (for web-based interface)
 Install required dependencies:
 
 pip install -r requirements.txt
+!pip install streamlit
 
 Run the application:
 
