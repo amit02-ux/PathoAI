@@ -1,10 +1,9 @@
-Heart Disease Prediction using Machine Learning
-
-Overview
+# Heart Disease Prediction using Machine Learning
+## Overview
 
 This project aims to develop a machine learning model for predicting heart disease based on various health parameters. By utilizing different machine learning algorithms, we aim to improve early diagnosis and assist medical professionals in decision-making.
 
-Features
+## Features
 
 Data preprocessing and feature engineering
 
@@ -14,7 +13,7 @@ Model evaluation and performance comparison
 
 User-friendly interface for predictions
 
-Dataset
+## Dataset
 
 The dataset used for training and evaluation is sourced from the UCI Machine Learning Repository or other reliable medical datasets. It includes patient information such as:
 
@@ -30,7 +29,7 @@ Heart rate
 
 Other relevant medical parameters
 
-Technologies Used
+## Technologies Used
 
 Python
 
@@ -42,9 +41,9 @@ NumPy
 
 Matplotlib & Seaborn
 
-Flask (for web-based interface)
+Streamlit (for web-based interface)
 
-Installation
+## Installation
 
 Install required dependencies:
 
@@ -54,7 +53,7 @@ Run the application:
 
 python app.py
 
-Usage
+## Usage
 
 Train the model using train.py
 
